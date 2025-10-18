@@ -1,2 +1,2 @@
 # Botnet-Detection-in-IoT-Networks
- This project aims to develop a machine learning model using the iot-23 dataset to effectively detect and classify IoT botnet attacks.
+  “Botnet Detection in IoT Networks using the IoT-23 Dataset” aims to build a machine learning-based intrusion detection system capable of distinguishing between benign and malicious network traffic. The goal is to extract relevant features, preprocess the data, and apply classification algorithms such as Logistic Regression, Random Forest, and Support Vector Machine (SVM) to evaluate and compare their performance in accurately detecting IoT botnet activities.​
