@@ -1,0 +1,4 @@
+Dataset Used 
+
+The dataset used in this porject is iot-23_combined dataset where it contains both Benign and attack traffic 
+You can find the dataset in the kaggle - https://www.kaggle.com/datasets/astralfate/iot23-dataset?resource=download&select=iot23_combined.csv
